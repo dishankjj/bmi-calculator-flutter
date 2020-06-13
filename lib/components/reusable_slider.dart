@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'constants.dart';
+import '../constants.dart';
 
 class ReusableSlider extends StatelessWidget {
   ReusableSlider({@required this.label, @required this.onChange});
